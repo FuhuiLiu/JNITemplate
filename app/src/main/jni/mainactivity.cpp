@@ -22,7 +22,7 @@
 
 jstring getSring(JNIEnv *env,jclass type)
 {
-    return env->NewStringUTF("hehe");
+    return env->NewStringUTF("Return frome JNI by AqCxBoM");
 }
 jint MyAdd(JNIEnv *env,jclass type, jint n1, jint n2)
 {
