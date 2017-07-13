@@ -1,1 +1,1 @@
-#JNITemplate
+#JNITemplate model方式构建
